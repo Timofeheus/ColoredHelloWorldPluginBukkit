@@ -1,4 +1,4 @@
-# README / ColoredHelloWorldPluginBukkit
+# СoloredHelloWorldPluginBukkit / README
 ![](https://goo.gl/w5kTUC)
 
 ![](https://goo.gl/LLHkzA)
