@@ -3,6 +3,11 @@
 
 ![](https://goo.gl/LLHkzA)
 ![](https://goo.gl/QgnkN3)
+![](https://goo.gl/uAxJnf)
+
+![](https://goo.gl/fsxKN6)
+![](https://goo.gl/1Txg8K)
+![](https://goo.gl/Guch2D)
 
 **ColoredHelloWorldPluginBukkit** : Simple but not ordinary and colored "Hello World" plugin for bukkit Minecraft server. In primarily intended for newcomers. | Простой, но не обычный и цветной "Hello World" плагин для bukkit сервера Minecraft. В первую очередь предназначен для новичков.
 
