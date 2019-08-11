@@ -1,6 +1,6 @@
 /*
     * ENGLISH LANGUAGE VERSION:
-    * Java plugin powered by Timofeheus (timofeheus@gmail.com)!
+    * Java plugin powered by Timofeheus (tmf315@gmail.com)!
     * (C) Timoha Timohavich (and Timofeheus).
     * The program code of this plugin (as well as the plugin itself) for the Minecraft server is distributed free of charge,
     * but when copying the code and / or its parts,
@@ -10,7 +10,7 @@
     * specify in your code that you took ANSI table from this code/plugin in accordance with the requirements given above.
     * ----------------------------------------------------------------------------------------------
     * RUSSIAN LANGUAGE VERSION:
-    * Ява (Java) плагин сделан Тимофехеус'ом (timofeheus@gmail.com)!
+    * Ява (Java) плагин сделан Тимофехеус'ом (tmf315@gmail.com)!
     * (C) Тимоха Тимохавич (и Тимофехеус).
     * Программный код этого плагина (как и сам плагин) для minecraft сервер распространяется бесплатно,
     * но при копировании кода и / или его части,
